@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <title>My Top 3 Video Games</title>
+</head>
+
+<body>
+<section>
+<h1>My Top 3 Video Games</h1>
+<p>As of this project, I wanted to demonstrate this by providing a list for 3 of my favorite games.</p>
+</section>
+
+<section>
+  <p>The list goes as follows:</p>
+<ul>
+    <a href="https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.5_Remix">
+    <img src="rootfolder/HTML Page/Kingdom-Hearts-2.5-Cover.png" alt="This is the Kingdom-Hearts-2.5-Cover" height="500"> 
+    </a>
+    <li>Kingdom Hearts 2.5</li>
+    <a href="https://en.wikipedia.org/wiki/Sonic_Adventure_2">
+    <img src="rootfolder/HTML Page/Sonic-Adventure-2-Cover.jpg" alt="This is the Sonic-Adventure-2-Cover" height="500"> 
+    </a>
+    <li>Sonic Adventure 2: Battle</li>
+    <a href="https://en.wikipedia.org/wiki/Tales_of_Berseria">
+    <img src="rootfolder/HTML Page/Tales-Of-Berseria.png" alt="This is the Tales-Of-Berseria-Cover" height="510">
+    </a>
+    <li>Tales of Berseria</li>
+</ul>
+</section>
+
+<footer>Copyright Jayden</footer>
+</body>
+
+</html>
