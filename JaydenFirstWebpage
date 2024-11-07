@@ -15,22 +15,23 @@
 </section>
 
 <section>
-  <p>The list goes as follows:</p>
+  <h2>The list goes as follows:</h2>
 <ul>
-    <a href="https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.5_Remix">
-    <img src="rootfolder/HTML Page/Kingdom-Hearts-2.5-Cover.png" alt="This is the Kingdom-Hearts-2.5-Cover" height="500"> 
-    </a>
-    <li>Kingdom Hearts 2.5</li>
-    <a href="https://en.wikipedia.org/wiki/Sonic_Adventure_2">
-    <img src="rootfolder/HTML Page/Sonic-Adventure-2-Cover.jpg" alt="This is the Sonic-Adventure-2-Cover" height="500"> 
-    </a>
-    <li>Sonic Adventure 2: Battle</li>
-    <a href="https://en.wikipedia.org/wiki/Tales_of_Berseria">
-    <img src="rootfolder/HTML Page/Tales-Of-Berseria.png" alt="This is the Tales-Of-Berseria-Cover" height="510">
-    </a>
-    <li>Tales of Berseria</li>
+    
+    
+    <img src="Kingdom-Hearts-2.5-Cover.PNG" alt="Kingdom-Hearts 2.5 HD Remix Cover" width="15%">
+    <li><a href="https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.5_Remix">Kingdom Hearts 2.5 HD Remix</a></li>
+    
+    <img src="Sonic-Adventure-2-Cover.jpg" alt="Sonic-Adventure 2 Cover" width="15%"> 
+    <li><a href="https://en.wikipedia.org/wiki/Sonic_Adventure_2">Sonic Adventure 2</a></li>
+
+    <img src="Tales-Of-Berseria.PNG" alt="Tales-Of-Berseria Cover" width="15%">
+    <li><a href="https://en.wikipedia.org/wiki/Tales_of_Berseria">Tales-Of Berseria</a></li>
+    
 </ul>
 </section>
+
+<p>I hope that you all like the choices I have made.</p>
 
 <footer>Copyright Jayden</footer>
 </body>
